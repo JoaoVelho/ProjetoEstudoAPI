@@ -5,6 +5,8 @@
 ### Obs: Cada artista pode apenas editar e deletar suas próprias músicas e álbuns.
 ### Obs²: Métodos GET não necessitam de autenticação. 
 
+### Link para o Swagger: https://localhost:5001/swagger/index.html
+
 <hr>
 
 #### Contas já registradas no banco de dados:
